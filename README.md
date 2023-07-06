@@ -10,7 +10,7 @@
 - * I'm looking to collaborate on GitHub because I believe that together we can do more.
 - * I may be new but I've got an interest in learning and improving my skills.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janeci-leoni-dewes-672975115/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janeci-leoni-dewes-672975115/)
 
 ### Tech & Tools ðŸ›     
 ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)   ![](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  ![](https://img.shields.io/badge/Scikit-Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) ![](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white&style=flat) 
