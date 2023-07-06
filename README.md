@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 
 
-### Hi there, Welcome to my profile! ðŸ‘‹
-- * Software Engineer
-- * Currently Learning Database 
-- * AI Enthusiast
-- * In my spare time I enjoy learning Web and Mobile Development 
-- * I'm looking to collaborate on GitHub because I believe that together we can do more
-- * I may be new but I've got interest in learning and improving my skilss
+### Hi there, Welcome to my profile!
+- * Software Engineer.
+- * Currently Learning Databases.
+- * AI Enthusiast.
+- * In my spare time I enjoy learning Web and Mobile Development.
+- * I'm looking to collaborate on GitHub because I believe that together we can do more.
+- * I may be new but I've got an interest in learning and improving my skills.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janeci-leoni-dewes-672975115/)](https://www.linkedin.com/in/janeci-leoni-dewes-672975115/)  
 
