@@ -19,4 +19,4 @@
 
 ![html](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)  ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  ![](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat) 
  
-### Databases  ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![](https://img.shields.io/badge/-IMBdb2-054ADA?logo=ibm&logoColor=white&style=flat) ![](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) 
+### Databases  ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![](https://img.shields.io/badge/-IMBdb2-054ADA?logo=ibm&logoColor=white&style=flat) ![](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) 
