@@ -3,13 +3,11 @@
 
 
 ### Hi there, Welcome to my profile! ðŸ‘‹
--  ðŸ‘©ðŸ¼â€ðŸ’»
-- ðŸŒ± Software Engineer AI Enthusiast 
-- ðŸ¤” Exploring new technologies and developing data-driven solutions
-- ðŸ’» In my spare time I enjoy learning Web and Mobile Development ðŸ“±
-- ðŸ‘¯ I'm looking to collaborate on GitHub because I believe that together we can do more
-- â˜• I believe a perfect cup of coffee can be the ultimate solution for any stress ðŸ˜„
-- ðŸ“« How to reach me: ðŸ‘‡ 
+- * Software Engineer 
+- * AI Enthusiast
+- * In my spare time I enjoy learning Web and Mobile Development 
+- * I'm looking to collaborate on GitHub because I believe that together we can do more
+- * I may be new but I've got interest in learning and improving my skilss
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janeci-leoni-dewes-672975115/)](https://www.linkedin.com/in/janeci-leoni-dewes-672975115/)  
 
