@@ -4,7 +4,7 @@
 
 ### Hi there, Welcome to my profile! ðŸ‘‹
 -  ðŸ‘©ðŸ¼â€ðŸ’»
-- ðŸŒ± AI Enthusiast 
+- ðŸŒ± Software Engineer AI Enthusiast 
 - ðŸ¤” Exploring new technologies and developing data-driven solutions
 - ðŸ’» In my spare time I enjoy learning Web and Mobile Development ðŸ“±
 - ðŸ‘¯ I'm looking to collaborate on GitHub because I believe that together we can do more
