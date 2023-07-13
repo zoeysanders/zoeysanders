@@ -3,12 +3,12 @@
 </p>
 
 ### Heya, Welcome to my profile:
-- * Software Engineer.
-- * Currently Learning Databases.
-- * AI Enthusiast.
-- * In my spare time I enjoy learning Web and Mobile Development.
-- * I'm looking to collaborate on GitHub because I believe we can do more together.
-- * I may be new but I've got an interest in learning and improving my skills.
+- Software Engineer.
+- Currently Learning Databases.
+- AI Enthusiast.
+- In my spare time I enjoy learning Web and Mobile Development.
+- I'm looking to collaborate on GitHub because I believe we can do more together.
+- I may be new but I've got an interest in learning and improving my skills.
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janeci-leoni-dewes-672975115/)
 
