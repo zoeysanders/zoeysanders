@@ -3,9 +3,9 @@
 </p>
 
 ### Heya, Welcome to my profile:
-- Software Engineer.
-- Currently Learning Databases.
-- AI Enthusiast.
+- Software Engineer. 
+- Currently Learning Databases. 
+- AI Enthusiast. 
 - In my spare time I enjoy learning Web and Mobile Development.
 - I'm looking to collaborate on GitHub because I believe we can do more together.
 - I may be new but I've got an interest in learning and improving my skills.
